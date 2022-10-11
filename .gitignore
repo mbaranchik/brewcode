@@ -24,7 +24,7 @@
 *.lai
 *.la
 *.a
-*.lib
+#*.lib
 
 # Executables
 *.exe
@@ -38,3 +38,5 @@ projectfiles
 *.py*
 mbed-os/*
 BUILD
+drivers/Adafruit_ST7789/*
+drivers/Adafruit_GFX/*
